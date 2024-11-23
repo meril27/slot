@@ -24,7 +24,9 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''<html>
+'''
+<pre><code>
+<html>
 <head>
 <center>
 <center>
@@ -122,8 +124,10 @@ Execute the program using runserver command.
 <td>Calculus and Matrix Algebra(Math)</td>
 </tr>   
 </table>
-</html>'''
-  
+</html>
+</code></pre>
+'''
+
 ## OUTPUT
   
 ![alt text](<Screenshot 2024-11-23 140434.png>)
