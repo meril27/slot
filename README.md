@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+<pre><code>
 &lt;html&gt;
 &lt;head&gt;
 &lt;center&gt;
@@ -118,7 +118,7 @@ Execute the program using runserver command.
 &lt;td&gt;Basic Electrical, Electronics and Measurement Engineering(BEEE)&lt;/td&gt;
 &lt;/tr&gt;   
 &lt;tr&gt;
-
+</code></pre>
   
 ## OUTPUT
 ![alt text](<Screenshot 2024-11-23 140434.png>)
