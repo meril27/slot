@@ -25,110 +25,102 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
-'''<pre><code>
-<html>
-<head>
-<center>
-<center>
-<img src="/static/logo.png" height="100" width="630">
-</center><br>
-<tittle>
-<b>SLOT TIMETABLE - MERIL GOLDLINA A (24007299)</b>
-</tittle>
-</head>
-<boby>
-<table border="2" cellpadding="10" bgcolor="AntiqueWhite" width="630">
-<tr> 
-<th bgcolor="silver">Day/Time</th>       
-<th bgcolor="white">8.00 - 10.00</th>
-<th bgcolor="silver">10.00 - 12.00</th>
-<th bgcolor="white">1.00 - 3.00</th>
-<th bgcolor="silver">3.00 - 5.00</th>
-</tr>
-<tr> 
-<th bgcolor="white">Monday</th>
-<td bgcolor="LightCoral" align="center">-</td>
-<td bgcolor="yellow" align="center">FWAD</td>
-<td bgcolor="pink" align="center">BEEE</td>
-<td bgcolor="LightCoral" align="center">-</td>
-</tr>
-<tr>
-<th bgcolor="silver">Tuesday</th>
-<td bgcolor="LightCoral" align="center">-</td>
-<td bgcolor="violet" align="center"> Maths</td>
-<td bgcolor="NavajoWhite" align="center">Chemistry</td>
-<td bgcolor="LightCoral" align="center">-</td>
-</tr>
-<tr>
-<th bgcolor="white">Wednesday</th>
-<td bgcolor="LightCoral" align="center">-</td>
-<td bgcolor="yellow" align="center">FWAD</td>
-<td bgcolor="PaleGreen" align="center">Mentor Meet</td>
-<td bgcolor="LightCoral" align="center">-</td>
-</tr>
-<tr>
-<th bgcolor="silver">Thursday</th>
-<td bgcolor="LightCoral" align="center">-</td>
-<td bgcolor="LightSkyBlue" align="center">C Programming</td>
-<td bgcolor="pink" align="center">BEEE</td>
-<td bgcolor="LightCoral" align="center">-</td>
-</tr>
-<tr>
-<th bgcolor="white">Friday</th>
-<td bgcolor="NavajoWhite" align="center">Chemistry</td>
-<td bgcolor="gold" align="center">DE</td>
-<td bgcolor="LightSkyBlue" align="center">C Programming</td>
-<td bgcolor="LightCoral" align="center">-</td>
-</tr>
-<tr>
-<th bgcolor="silver">Saturday</th>
-<td bgcolor="gold" align="center">DE</td>
-<td bgcolor="violet" align="center">Maths</td>
-<td bgcolor="yellow" align="center">FWAD</td>
-<td bgcolor="LightCoral" align="center">-</td>
-</tr>
-<table border="2" cellpadding="10" bgcolor="white"><br>
-<tr> 
-<th>S.No.</th>  
-<th align="centre">Subject Code</th>     
-<th align="centre">Subject Name</th>  
-</tr>   
-<tr>
-<th>1.</th>
-<td align="centre">19AI414</td>
-<td>Fundamentals of Web Application Development(FWAD)</td>
-</tr> 
-<tr>
-<th>2.</th>
-<td align="centre">19CY205</td>
-<td>Principles of Chemistry in Engineering(CHE)</td>
-</tr>   
-<tr>
-<th>3.</th>
-<td align="centre">19EE404</td>
-<td>Digital Electroincs(DE)</td>
-</tr>   
-<tr>
-<th>4.</th>
-<td align="centre">19A1304</td>
-<td>Fundamentals of C Programming(C progm)</td>
-</tr>   
-<tr>
-<th>5.</th>
-<td align="centre">19A1305</td>
-<td>Basic Electrical, Electronics and Measurement Engineering(BEEE)</td>
-</tr>   
-<tr>
-<th>6.</th>
-<td align="centre">19MA201</td>
-<td>Calculus and Matrix Algebra(Math)</td>
-</tr>   
-</table>
-</html>
-</code></pre>'''
+&lt;html&gt;
+&lt;head&gt;
+&lt;center&gt;
+&lt;img src=&quot;/static/logo.png&quot; height=&quot;100&quot; width=&quot;630&quot;&gt;
+&lt;/center&gt;&lt;br&gt;
+&lt;title&gt;
+&lt;b&gt;SLOT TIMETABLE - MERIL GOLDLINA A (24007299)&lt;/b&gt;
+&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;table border=&quot;2&quot; cellpadding=&quot;10&quot; bgcolor=&quot;AntiqueWhite&quot; width=&quot;630&quot;&gt;
+&lt;tr&gt; 
+&lt;th bgcolor=&quot;silver&quot;&gt;Day/Time&lt;/th&gt;       
+&lt;th bgcolor=&quot;white&quot;&gt;8.00 - 10.00&lt;/th&gt;
+&lt;th bgcolor=&quot;silver&quot;&gt;10.00 - 12.00&lt;/th&gt;
+&lt;th bgcolor=&quot;white&quot;&gt;1.00 - 3.00&lt;/th&gt;
+&lt;th bgcolor=&quot;silver&quot;&gt;3.00 - 5.00&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt; 
+&lt;th bgcolor=&quot;white&quot;&gt;Monday&lt;/th&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;td bgcolor=&quot;yellow&quot; align=&quot;center&quot;&gt;FWAD&lt;/td&gt;
+&lt;td bgcolor=&quot;pink&quot; align=&quot;center&quot;&gt;BEEE&lt;/td&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th bgcolor=&quot;silver&quot;&gt;Tuesday&lt;/th&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;td bgcolor=&quot;violet&quot; align=&quot;center&quot;&gt; Maths&lt;/td&gt;
+&lt;td bgcolor=&quot;NavajoWhite&quot; align=&quot;center&quot;&gt;Chemistry&lt;/td&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th bgcolor=&quot;white&quot;&gt;Wednesday&lt;/th&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;td bgcolor=&quot;yellow&quot; align=&quot;center&quot;&gt;FWAD&lt;/td&gt;
+&lt;td bgcolor=&quot;PaleGreen&quot; align=&quot;center&quot;&gt;Mentor Meet&lt;/td&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th bgcolor=&quot;silver&quot;&gt;Thursday&lt;/th&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;td bgcolor=&quot;LightSkyBlue&quot; align=&quot;center&quot;&gt;C Programming&lt;/td&gt;
+&lt;td bgcolor=&quot;pink&quot; align=&quot;center&quot;&gt;BEEE&lt;/td&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th bgcolor=&quot;white&quot;&gt;Friday&lt;/th&gt;
+&lt;td bgcolor=&quot;NavajoWhite&quot; align=&quot;center&quot;&gt;Chemistry&lt;/td&gt;
+&lt;td bgcolor=&quot;gold&quot; align=&quot;center&quot;&gt;DE&lt;/td&gt;
+&lt;td bgcolor=&quot;LightSkyBlue&quot; align=&quot;center&quot;&gt;C Programming&lt;/td&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th bgcolor=&quot;silver&quot;&gt;Saturday&lt;/th&gt;
+&lt;td bgcolor=&quot;gold&quot; align=&quot;center&quot;&gt;DE&lt;/td&gt;
+&lt;td bgcolor=&quot;violet&quot; align=&quot;center&quot;&gt;Maths&lt;/td&gt;
+&lt;td bgcolor=&quot;yellow&quot; align=&quot;center&quot;&gt;FWAD&lt;/td&gt;
+&lt;td bgcolor=&quot;LightCoral&quot; align=&quot;center&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;table border=&quot;2&quot; cellpadding=&quot;10&quot; bgcolor=&quot;white&quot;&gt;&lt;br&gt;
+&lt;tr&gt; 
+&lt;th&gt;S.No.&lt;/th&gt;  
+&lt;th align=&quot;centre&quot;&gt;Subject Code&lt;/th&gt;     
+&lt;th align=&quot;centre&quot;&gt;Subject Name&lt;/th&gt;  
+&lt;/tr&gt;   
+&lt;tr&gt;
+&lt;th&gt;1.&lt;/th&gt;
+&lt;td align=&quot;centre&quot;&gt;19AI414&lt;/td&gt;
+&lt;td&gt;Fundamentals of Web Application Development(FWAD)&lt;/td&gt;
+&lt;/tr&gt; 
+&lt;tr&gt;
+&lt;th&gt;2.&lt;/th&gt;
+&lt;td align=&quot;centre&quot;&gt;19CY205&lt;/td&gt;
+&lt;td&gt;Principles of Chemistry in Engineering(CHE)&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;tr&gt;
+&lt;th&gt;3.&lt;/th&gt;
+&lt;td align=&quot;centre&quot;&gt;19EE404&lt;/td&gt;
+&lt;td&gt;Digital Electroincs(DE)&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;tr&gt;
+&lt;th&gt;4.&lt;/th&gt;
+&lt;td align=&quot;centre&quot;&gt;19A1304&lt;/td&gt;
+&lt;td&gt;Fundamentals of C Programming(C progm)&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;tr&gt;
+&lt;th&gt;5.&lt;/th&gt;
+&lt;td align=&quot;centre&quot;&gt;19A1305&lt;/td&gt;
+&lt;td&gt;Basic Electrical, Electronics and Measurement Engineering(BEEE)&lt;/td&gt;
+&lt;/tr&gt;   
+&lt;tr&gt;
 
-## OUTPUT
   
+## OUTPUT
 ![alt text](<Screenshot 2024-11-23 140434.png>)
 
 
